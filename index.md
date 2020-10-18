@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" type="text/css" href="DjWebsite.css">
+    <link href="https://fonts.googleapis.com/css2?family=Audiowide&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <title>Dj MeechLouch</title>
+</head>
+
+<body>
+  
+  <header class="header">
+    <h1><span class="dj">Dj</span> Meech<span class="louch">Louch</span></h1>
+    <div>
+      <nav>
+        <ul>
+          <li>
+            <a href="#theStory">The Story</a>
+          </li>
+          <li>
+            <a href="#photos">Photos</a>
+          </li>
+          <li>
+            <a href="#media">Media</a>
+          </li>
+          <li>
+            <a href="#book">Book Event</a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+<div class="container">
+  <main >
+    <section class="section">
+      <div id="theStory">
+        <h2>The Story</h2>
+        <p>
+          Meechlouch is a Brooklyn native that now resides in the Urban Downtown of Saint Paul, Minnesota. He is known locally as the Dj that saves one party
+          at time. You can catch him in Frogtown Saint Paul at Willard's Community Bar obliterating the 1's and 2's.
+        </p>
+      </div>
+
+      <div id="photos">
+        <h2>Photos</h2>
+        <p>
+
+        </p> 
+      </div>
+
+      <div id="media">
+        <h2>Media</h2>
+      </div>
+
+      <div id="book">
+       <h2>Book</h2>
+      </div>
+    </section>
+  </main>
+</div>
+  <footer class="footer">
+    <h2>Created by Dj MeechLouch</h2>
+  </footer>
+    
+</body>
+</html>
